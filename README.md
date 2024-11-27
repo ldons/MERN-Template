@@ -73,7 +73,7 @@ npm install
 1. **Start the Server**
 ```bash
 cd server
-npm run dev
+npm start
 ```
 The server will start on port 5000 (or the port specified in your .env file)
 
