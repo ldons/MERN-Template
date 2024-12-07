@@ -1,4 +1,4 @@
-# create-mern-app
+# mern-template-app
 
 A powerful CLI tool for rapidly generating full-stack MERN (MongoDB, Express, React, Node.js) projects with modern web development best practices.
 
@@ -32,7 +32,7 @@ npx @ldons/mern-template-app
 
 ```bash
 npm install -g @ldons/mern-template-app
-create-mern-app
+mern-template-app
 ```
 
 ## 🖥️ Usage
@@ -100,7 +100,7 @@ npm install
 - Create `.env` in server directory
 - Add `MONGODB_URI=your_connection_string`
 
-## 💡 Why Use create-mern-app?
+## 💡 Why Use mern-template-app?
 
 - 🕒 Save hours of initial setup time
 - 🧩 Consistent, production-ready structure
