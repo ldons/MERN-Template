@@ -1,5 +1,3 @@
-I'll create a comprehensive README that highlights the CLI tool and its purpose, using the full GitHub repository context.
-
 # create-mern-app
 
 A powerful CLI tool for rapidly generating full-stack MERN (MongoDB, Express, React, Node.js) projects with modern web development best practices.
